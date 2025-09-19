@@ -81,3 +81,4 @@ func zahyst(of meals: [Meal]) -> Double {
 
 let avg = zahyst(of: meals)
 print("Середня калорійність: \(avg)")
+
